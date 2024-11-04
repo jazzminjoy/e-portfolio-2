@@ -1,2 +1,2 @@
 # e-portfolio-2
-This is a edo of the e-portfoliio practice project from scratch. The Frontend Simplified bootcamp has a practice e-portfolio. This is version 2, done mostly without referring to David Bragg's instructional video. However, I did refer to the video for special effects or when I got stuck. This project is done in HTML and CSS only. I feel there wwere some bloat in the sample video, such as unused class names, or unnecessary sections and divs. There was nesting where there need not be. Redoing the project enabled me to clean and simplify the HTML and the CSS. I feel it is easier to read, understand, and maintain. In the process, I deepened my understanding and learning.
+This is a redo of a personal portfolio using HTML and CSS. 
