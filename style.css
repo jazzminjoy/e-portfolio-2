@@ -27,7 +27,7 @@
       justify-content: space-between;
       padding-right: 1rem;
     
-      border: 5px solid orange;
+      /* border: 5px solid orange; */
     }
     .navbar_link {
       text-decoration: none;
@@ -186,6 +186,10 @@
 #projects span {
   color: purple;
 }
+.project {
+  margin-bottom: 135px;
+}
+]
 .project__img {
   width: 100%;
   transition: all 500ms ease;
@@ -213,7 +217,7 @@
   transform: translateY(100%);
 }
 .project:hover .project__wrapper:before {
-  opacity: 0.7;
+  opacity: 0.5;
   transform: translateY(0);
 }
 .project:hover .project__img {
@@ -238,14 +242,21 @@
   transition: transform 450ms, opacity 300ms;
 }
 .project__description--title {
-  font-size: 40px;
+  /* font-size: 40px; */
+  font-size: 35px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  -webkit-text-stroke: 1px white;
+  letter-spacing: 2px;
 }
 .project__description--para {
   margin: 16px 0;
   margin-right: 16px;
+  font-size: 20px;
 }
 .project__description--link {
-  font-size: 20px;
+  /* font-size: 20px; */
+  font-size: 16px;
   margin-right: 16px;
 }
 .project__description--title,
@@ -266,4 +277,6 @@
 
   /* border: 9px solid red; */
   }
-}
+
+  
+/* FOOTER */
